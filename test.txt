@@ -1,0 +1,1 @@
+Dans le fichier test crée précédemment, nous le modifions puis puis grâce aux commandes add et commit, le fichier est déplacer dans le dépot mon_fichier !
